@@ -53,14 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedayman03&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedayman03&layout=compact" height="160" />
-</p>
-
----
-
 ## 🔗 Connect With Me  
 - 📧 Email: **mdaymanyousuf03@gmail.com**  
 - 💼 LinkedIn: [Mohammed Ayman](https://www.linkedin.com/in/mohammed-ayman-15219a381)  
