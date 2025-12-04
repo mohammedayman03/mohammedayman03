@@ -7,13 +7,20 @@ on:
     branches:
       - main               # runs whenever you push to main
 
+# Grant write permission so the workflow can push
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout your repo
       - name: Checkout
         uses: actions/checkout@v3
 
+      # Step 2: Generate the snake animation SVG
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -21,6 +28,7 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
+      # Step 3: Commit & push the snake SVG back to the repo
       - name: Push Snake Animation
         uses: EndBug/add-and-commit@v9
         with:
@@ -28,3 +36,4 @@ jobs:
           author_email: actions@github.com
           message: "Update snake animation"
           add: "./output/github-contribution-grid-snake.svg"
+          push: true   # Enable automatic push using GITHUB_TOKEN
