@@ -57,6 +57,8 @@
 - 📧 Email: **mdaymanyousuf03@gmail.com**  
 - 💼 LinkedIn: [Mohammed Ayman](https://www.linkedin.com/in/mohammed-ayman-15219a381)  
 - 🐙 GitHub: [mohammedayman03](https://github.com/mohammedayman03)
+- 📄 CV: [Download my CV](https://github.com/mohammedayman03/mohammedayman03/blob/main/Mohammed%20Ayman-CV.pdf)
+
 
 ---
 
