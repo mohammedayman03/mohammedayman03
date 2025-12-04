@@ -70,9 +70,3 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohammed+Ayman+👋;AI+%7C+Computer+Vision+%7C+Android+Developer;ML+Engineer+in+Progress+🚀;Always+Building+Something+New+💡" />
 </p>
 
----
-
-## 🐍 GitHub Contribution Snake Animation  
-<p align="center">
-  <img src="https://github.com/mohammedayman03/mohammedayman03/blob/output/github-contribution-grid-snake.svg" />
-</p>
